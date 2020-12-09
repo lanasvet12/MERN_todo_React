@@ -7,6 +7,8 @@ When creating the application, material from https://codingthesmartway.com was u
 
  As a result, the browser displays:
  
- <img alt="nivo" src="https://raw.githubusercontent.com/plouc/nivo/master/nivo.png" width="216" height="68" style="max-width:100%;">
+ <img alt="todo_React" src="https://github.com/lanasvet12/MERN_todo_React/blob/master/todo_React_Mongo.jpg" width="416" height="468" style="max-width:100%;">
  
 And in the local MongoDB, you can see that all the records have successfully entered the database:
+
+<img alt="Mongo_todos" src="https://github.com/lanasvet12/MERN_todo_React/blob/master/Mongo_todos.jpg" width="416" height="468" style="max-width:100%;">
